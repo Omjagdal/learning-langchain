@@ -1,0 +1,8 @@
+from langchian_openai import OpenAI   
+from dotenv import load_dotenv
+
+load_dotenv()
+
+llm = OpenAI(model="gpt-3.5-turbo")
+response = llm.invoke("What is LangChain?")
+print("Response:", response)
