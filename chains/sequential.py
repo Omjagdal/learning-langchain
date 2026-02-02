@@ -5,7 +5,6 @@ from langchain_core.output_parsers import StrOutputParser
 import os
 load_dotenv()
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDAE7OwiFhmHRySPDj567dBwXUhIqGhK-c"
 prompt1 = PromptTemplate(
     template='Generate a detailed report on {topic}',
     input_variables=['topic']
