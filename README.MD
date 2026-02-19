@@ -1,4 +1,6 @@
-leraning langchain 
+leraning langchain  for educational purpose
+
+
 
 
 
