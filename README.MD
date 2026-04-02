@@ -155,11 +155,6 @@ Contributions are welcome!
 3. Commit your changes
 4. Submit a PR
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ---
 
