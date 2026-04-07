@@ -138,13 +138,6 @@ jupyter notebook
 
 ---
 
-## 🧑‍💻 Author
-
-**Om Jagdale**
-
-* GitHub: https://github.com/Omjagdal
-
----
 
 ## 🤝 Contributing
 
